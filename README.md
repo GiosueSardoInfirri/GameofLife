@@ -4,6 +4,8 @@ Game of Life - Laboratory of Computational Physics - Mod A
 
 Feltrin Antonio, Sardo Infirri Giosuè, Tancredi Riccardo, Toso Simone
 
+This is the result of the implementation of "Game of Life" by John Conway, with a further analysis its main aspects and features. The work has been done by the authors as final project for the mentioned university course working in parallel using Riccardo Tancredi's personal GitHub account in order not to create errors working on the same files (one can find here all the commits).
+
 <div align="center">
     <img src=figures/einstein.gif width=152 height=202>
     <img src=figures/mona.gif width=136 height=202>
